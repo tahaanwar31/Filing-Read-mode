@@ -1,0 +1,8 @@
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Filing Read mode\Filing Read mode\bin\Debug\Filing Read mode.exe
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Filing Read mode\Filing Read mode\bin\Debug\Filing Read mode.pdb
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Filing Read mode\Filing Read mode\bin\Debug\Filing Read mode.xml
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Filing Read mode\Filing Read mode\obj\x86\Debug\ConsoleApplication1.Resources.resources
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Filing Read mode\Filing Read mode\obj\x86\Debug\Filing Read mode.vbproj.GenerateResource.Cache
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Filing Read mode\Filing Read mode\obj\x86\Debug\Filing Read mode.exe
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Filing Read mode\Filing Read mode\obj\x86\Debug\Filing Read mode.xml
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Filing Read mode\Filing Read mode\obj\x86\Debug\Filing Read mode.pdb
